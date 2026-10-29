@@ -1,0 +1,23 @@
+---
+title: " WK 8 Political Opinions"
+author: Natalie Daniels
+format: typst
+---
+
+## Figure 1
+
+![Distribution of Public Opinion Across Topics](public_opinion.pdf){fig-align="center" width="70%"}
+
+## Figure 2
+
+![Republican Party Opinion Change Over Time on Topics](Rep_opinion.pdf){fig-align="center" width="70%"}
+
+## Figure 3
+
+![Democratic Party Opinion Change Over Time on Topics](Dem_opinion.pdf){fig-align="center" width="70%"}
+
+## Write-Up
+
+Figure 1 shows what the distribution of public opinion looks like across topics. Which topics show the most agreement or the most division. Figure 2 shows how has Republican opinion changed over time and which topics moved the most, and in which direction. Figure 3 shows how democratic opinion changed over time and which topics moved the most, and in which direction. Overall we are looking at how the two parties' trends compare to each other and to overall public opinion. 
+
+
